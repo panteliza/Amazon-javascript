@@ -1,5 +1,5 @@
 let productsHTML = '';
-
+//learning
 products.forEach((product) => {
   productsHTML += `
     <div class="product-container">
